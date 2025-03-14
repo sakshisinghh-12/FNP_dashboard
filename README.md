@@ -12,8 +12,3 @@ This project analyzes sales data from Ferns N Petals (FNP) to uncover key insigh
 - Peak Sales Periods: Identified a 25% increase in sales during festive seasons, with Raksha Bandhan and Anniversary generating the highest revenue.
 - Customer Spending Behavior: The average order value is ₹3,520.98, helping refine promotional strategies.
 - Delivery Performance: The average order-to-delivery time is 5.53 days, highlighting opportunities for logistics improvements.
-
-## Tools & Technologies Used
-- Power BI for data visualization
-- SQL for data extraction and transformation
-- Excel for exploratory data analysis
